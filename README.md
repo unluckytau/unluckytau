@@ -1,5 +1,5 @@
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tau-zeta&theme=nord&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=tau-zeta&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="tau-zeta's GitHub Stats" />
 </p>
 
 ---
@@ -14,3 +14,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api?username=tau-zeta&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="tau-zeta's GitHub Stats" />
