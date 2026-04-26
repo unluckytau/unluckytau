@@ -1,3 +1,9 @@
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tau-zeta&theme=nord&show_icons=true&hide_border=true&count_private=true)
+</p>
+
+---
+
 **`Languages & Tools`**
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
