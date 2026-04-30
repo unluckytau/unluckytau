@@ -17,6 +17,7 @@
 
 ---
 
-**`To-Do List`**
+**`Things to work on...`**
 - [ ] New Neovim Config (Nightly)
 - [ ] Change Waybar Config + Power settings
+- [ ] Music Bot for Discord
