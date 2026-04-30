@@ -1,5 +1,5 @@
-<p align="center">
-**`ts so tuff dawg`**
+<p h3 align="center">
+ts so tuff dawg
 </p>
 
 ---
