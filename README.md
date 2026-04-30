@@ -19,5 +19,5 @@ I identify as a Physicist
 
 **`Things to work on...`**
 - [ ] New Neovim Config (Nightly)
-- [ ] Change Waybar Config + Power settings
+- [x] Update Waybar Config + Power Options script
 - [ ] Music Bot for Discord
