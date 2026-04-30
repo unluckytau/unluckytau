@@ -18,6 +18,7 @@ I identify as a Physicist
 ---
 
 **`Things to work on...`**
+- [ ] Setup Nix packages for cross-platform
 - [ ] New Neovim Config (Nightly)
 - [x] Update Waybar Config + Power Options script
 - [ ] Music Bot for Discord
