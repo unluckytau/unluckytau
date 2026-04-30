@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tau-zeta&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="tau-zeta's GitHub Stats" />
+**`ts so tuff dawg`**
 </p>
 
 ---
