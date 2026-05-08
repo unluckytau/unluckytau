@@ -17,8 +17,7 @@ I identify as a Physicist
 
 ---
 
-**`Things to work on...`**
-- [ ] Setup Nix packages for cross-platform
-- [ ] New Neovim Config (Nightly)
-- [x] Update Waybar Config + Power Options script
+**`Currently working on...`**
+- [ ] Setup NixOS Home-manager
+- [ ] Switch Waybar to Noctalia [Hyprland]
 - [ ] Music Bot for Discord
