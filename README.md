@@ -18,6 +18,6 @@ I identify as a Physicist
 ---
 
 **`Currently working on...`**
-- [ ] Setup NixOS Home-manager
+- [x] Setup NixOS Home-manager
 - [ ] Switch Waybar to Noctalia [Hyprland]
 - [ ] Music Bot for Discord
