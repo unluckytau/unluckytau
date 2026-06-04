@@ -17,7 +17,8 @@ I identify as a Physicist
 
 ---
 
-**`Currently working on...`**
+**`What to do...`**
 - [x] Setup NixOS Home-manager
 - [x] Switch Waybar to Noctalia [Hyprland]
 - [ ] Music Bot for Discord
+- [ ] Learn C (maybe)
