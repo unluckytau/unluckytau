@@ -18,7 +18,6 @@ I identify as a Physicist
 ---
 
 **`What to do...`**
-- [x] Setup NixOS Home-manager
-- [x] Switch Waybar to Noctalia [Hyprland]
+- [ ] Configure Hyprland in Lua
 - [ ] Music Bot for Discord
 - [ ] Learn C (maybe)
