@@ -1,9 +1,3 @@
-<p h3 align="center">
-I identify as a Physicist
-</p>
-
----
-
 **`Languages & Tools`**
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
