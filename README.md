@@ -14,4 +14,4 @@
 **`What to do...`**
 - [ ] Configure Hyprland in Lua
 - [ ] Music Bot for Discord
-- [ ] Learn C (maybe)
+- [ ] felt emo, might learn C (maybe)
