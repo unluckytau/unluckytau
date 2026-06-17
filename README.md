@@ -15,3 +15,4 @@
 - [ ] Configure Hyprland in Lua
 - [ ] Music Bot for Discord
 - [ ] felt emo, might learn C (maybe)
+- [ ] improve and refac nix `.home` repo
