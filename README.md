@@ -1,5 +1,4 @@
-### <p align="center"> __BSc. Physics | MS. Data Science__ </p>
-<br>
+#### <p align="center"> __BSc. Physics | MS. Data Science__ </p>
 
 **`Languages & Tools`**
 
