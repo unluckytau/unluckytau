@@ -11,5 +11,5 @@
 
 - [ ] Update hyprland & configure in Lua.
 - [ ] Update noctalia to v5.
-- [ ] finish `donut-in-rust` repo.
+- [x] finish `donut-in-rust` repo.
 - [ ] update `.home` repo.
