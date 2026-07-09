@@ -9,6 +9,7 @@
 
 **To do**
 
+- [ ] Remake NixOS flake + home manager from scratch.
 - [ ] Update hyprland & configure in Lua.
 - [ ] Update noctalia to v5.
 - [x] finish `donut-in-rust` repo.
