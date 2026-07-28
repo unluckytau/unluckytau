@@ -1,3 +1,7 @@
+<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unluckytau&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+</p>
+
 **Tools**
 
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
