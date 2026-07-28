@@ -1,5 +1,5 @@
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unluckytau&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=unluckytau&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="unluckytau's GitHub Stats" />
 </p>
 
 **Tools**
