@@ -1,5 +1,5 @@
 <p align="center">
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=unluckytau&theme=gruvbox&days=30&width=320&height=80&border_radius=0&line_color=e08060&fill_color=e08060&title=%F0%9F%92%BB)
+<img src="https://ghstats.dev/api/sparkline?username=unluckytau&theme=gruvbox&days=30&width=320&height=80&border_radius=0&line_color=e08060&fill_color=e08060&title=%F0%9F%92%BB" alt="Contribution Sparkline" />
 </p>
 
 **Tools**
