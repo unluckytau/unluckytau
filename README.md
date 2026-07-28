@@ -13,7 +13,4 @@
 
 **To do**
 
-- [x] Restructure NixOS flake + home manager from scratch.
-- [x] Update hyprland to 0.55 & configure in Lua.
-- [x] Update noctalia to v5.
 - [ ] update `.home` repo.
