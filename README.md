@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=unluckytau&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="unluckytau's GitHub Stats" />
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=unluckytau&theme=gruvbox&days=30&width=320&height=80&border_radius=0&line_color=e08060&fill_color=e08060&title=%F0%9F%92%BB)
 </p>
 
 **Tools**
