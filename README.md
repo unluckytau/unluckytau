@@ -13,4 +13,5 @@
 
 **To do**
 
+- [ ] Learn **`C++`**
 - [ ] update `.home` repo.
