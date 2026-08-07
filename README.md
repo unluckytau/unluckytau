@@ -16,4 +16,5 @@
 
 **To do**
 
-- [ ] Learn **`C++`**
+- [ ] Pickup some more **`C++`** concepts.
+- [ ] attempt simple wayland desktop shell. 
