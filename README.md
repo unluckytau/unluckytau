@@ -18,5 +18,5 @@
 
 #### **to do.**
 
-- [ ] Pickup some more **`C++`** concepts.
+- [ ] pickup more **`C++`** concepts.
 - [ ] attempt simple wayland desktop shell. 
