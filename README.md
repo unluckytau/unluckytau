@@ -6,7 +6,7 @@
 
 <br>
 
-#### **Tools**
+#### **tools.**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
@@ -16,7 +16,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 <br>
 
-#### **To do**
+#### **to do.**
 
 - [ ] Pickup some more **`C++`** concepts.
 - [ ] attempt simple wayland desktop shell. 
