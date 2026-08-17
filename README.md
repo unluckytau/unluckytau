@@ -19,6 +19,6 @@
 
 #### **to do.**
 
-- [ ] pickup more **`C++`** concepts.
+- [x] pickup more **`C++`** concepts.
 - [ ] attempt simple wayland desktop shell. 
 - [ ] complete `donut-cpp`
