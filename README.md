@@ -20,4 +20,4 @@
 
 #### **to do.**
 
-- [ ] visualize doppler effect in C. (W.I.P)
+- [ ] visualize doppler effect in C + practice using CMake (W.I.P)
