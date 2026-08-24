@@ -20,6 +20,4 @@
 
 #### **to do.**
 
-- [x] pickup more **`C++`** concepts.
-- [ ] attempt simple wayland desktop shell. 
-- [ ] complete `donut-cpp`
+- [ ] visualize doppler effect in C. (W.I.P)
