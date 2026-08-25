@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ghstats.dev/api/sparkline?username=unluckytau&theme=gruvbox&days=30&width=400&height=100&border_radius=0.5&line_color=e08060&fill_color=e08060&title=%CE%B6" alt="Contribution Sparkline" />
+<img src="https://ghstats.dev/api/sparkline?username=unluckytau&theme=gruvbox&days=30&width=450&height=100&border_radius=8&line_color=e08060&fill_color=e08060&title=%CE%B6" alt="Contribution Sparkline" />
 </p>
 
 #### <p align="center"> **BSc. (Hons) Physics | Master in Data Science** </p>
