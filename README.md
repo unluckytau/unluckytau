@@ -6,7 +6,7 @@
 
 <br>
 
-#### **tools.**
+#### **Tools.**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
@@ -17,6 +17,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 <br>
 
-#### **to do.**
+#### **To do.**
 
 - [ ] visualize doppler effect in C + practice using CMake (W.I.P)
