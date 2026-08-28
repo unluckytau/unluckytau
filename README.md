@@ -20,3 +20,4 @@
 #### **To do.**
 
 - [ ] visualize doppler effect in C + practice using CMake (W.I.P)
+- [ ] pickup _CUDA_.
