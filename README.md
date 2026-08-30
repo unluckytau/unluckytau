@@ -1,5 +1,3 @@
-<br>
-
 <p align="center">
 <img src="https://ghstats.dev/api/sparkline?username=unluckytau&theme=gruvbox&days=30&width=500&height=150&line_color=e08060&fill_color=e08060&title=%CE%BB" alt="Contribution Sparkline" />
 </p>
