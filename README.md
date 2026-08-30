@@ -1,8 +1,18 @@
+<br>
+
+### <p align="center"> **BSc. (Hons) Physics | Master in Data Science** </p>
+
+<br>
+
 <p align="center">
 <img src="https://ghstats.dev/api/sparkline?username=unluckytau&theme=gruvbox&days=30&width=450&height=100&border_radius=8&line_color=e08060&fill_color=e08060&title=%CE%B6" alt="Contribution Sparkline" />
 </p>
 
-#### <p align="center"> **BSc. (Hons) Physics | Master in Data Science** </p>
+<br>
+
+<p align="center">
+<img src="https://ghstats.dev/api/langs?username=unluckytau&theme=gruvbox&max_langs=5&layout=grid" alt="Top Languages" />
+</p>
 
 <br>
 
@@ -19,5 +29,5 @@
 
 #### **To do.**
 
-- [ ] visualize doppler effect in C + practice using CMake (W.I.P)
+- [ ] visualize doppler effect in C + practice using CMake
 - [ ] pickup _CUDA_.
