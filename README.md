@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-<img src="https://ghstats.dev/api/sparkline?username=unluckytau&theme=gruvbox&days=30&width=450&height=100&border_radius=8&line_color=e08060&fill_color=e08060&title=%CE%B6" alt="Contribution Sparkline" />
+<img src="https://ghstats.dev/api/sparkline?username=unluckytau&theme=gruvbox&days=30&width=500&height=150&line_color=e08060&fill_color=e08060&title=%CE%BB" alt="Contribution Sparkline" />
 </p>
 
 <br>
