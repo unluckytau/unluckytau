@@ -25,5 +25,5 @@
 
 #### **To do.**
 
-- [ ] visualize doppler effect in C + practice using CMake
+- [x] visualize doppler effect in C + practice using CMake
 - [ ] pickup _CUDA_.
