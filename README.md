@@ -25,3 +25,4 @@
 
 - [ ] new `C` project.
 - [ ] attempt minimal wayland shell.
+- [ ] fix `Rust` skill issue.
