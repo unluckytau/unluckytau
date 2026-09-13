@@ -23,4 +23,5 @@
 
 #### **To do.**
 
+- [ ] new `C` project.
 - [ ] attempt minimal wayland shell.
