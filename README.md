@@ -21,8 +21,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 <br>
 
-#### **To do.**
+#### **Ongoing Project.**
 
-- [ ] new `C` project.
-- [ ] attempt minimal wayland shell.
-- [ ] fix `Rust` skill issue.
+- [ ] dynamic island shell for hyprland. ([*tau-shell*](https://github.com/unluckytau/tau-shell))
