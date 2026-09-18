@@ -23,4 +23,3 @@
 
 #### **Ongoing Project.**
 
-- [ ] dynamic island shell for hyprland. ([*tau-shell*](https://github.com/unluckytau/tau-shell))
