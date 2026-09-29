@@ -12,14 +12,14 @@
 
 #### **Tools.**
 
-![C++](https://img.shields.io/badge/C%2B%2B-242320?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-242320?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-242320?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-242320?style=for-the-badge&logo=rust&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-242320?style=for-the-badge&logo=nixos&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-242320?style=for-the-badge&logo=gnubash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-242320?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-242320?style=for-the-badge&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-242320?style=for-the-badge&logo=cplusplus&logoColor=e08060)
+![C](https://img.shields.io/badge/C-242320?style=for-the-badge&logo=c&logoColor=e08060)
+![Python](https://img.shields.io/badge/Python-242320?style=for-the-badge&logo=python&logoColor=e08060)
+![Rust](https://img.shields.io/badge/Rust-242320?style=for-the-badge&logo=rust&logoColor=e08060)
+![Nix](https://img.shields.io/badge/Nix-242320?style=for-the-badge&logo=nixos&logoColor=e08060)
+![Bash](https://img.shields.io/badge/Bash-242320?style=for-the-badge&logo=gnubash&logoColor=e08060)
+![SQLite](https://img.shields.io/badge/SQLite-242320?style=for-the-badge&logo=sqlite&logoColor=e08060)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-242320?style=for-the-badge&logo=postgresql&logoColor=e08060)
 <br>
 
 #### **Ongoing Project.**
