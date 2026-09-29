@@ -12,13 +12,13 @@
 
 #### **Tools.**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![C++](https://img.shields.io/badge/C%2B%2B-e08060?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-e08060?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-e08060?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-e08060?style=flat&logo=rust&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-e08060?style=flat&logo=nixos&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-e08060?style=flat&logo=gnubash&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-e08060?style=flat&logo=sqlite&logoColor=white)
 <br>
 
 #### **Ongoing Project.**
