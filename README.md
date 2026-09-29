@@ -18,8 +18,8 @@
 ![Rust](https://img.shields.io/badge/Rust-242320?style=for-the-badge&logo=rust&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-242320?style=for-the-badge&logo=nixos&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-242320?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-242320?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-242320?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-242320?style=for-the-badge&logo=sqlite&logoColor=white)
 <br>
 
 #### **Ongoing Project.**
