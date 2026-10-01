@@ -24,3 +24,5 @@
 
 ### **Ongoing Project.**
 
+![1](https://img.shields.io/badge/DIY_Quickshell_Config-In_Progress-1c1b19?style=for-the-badge)
+
